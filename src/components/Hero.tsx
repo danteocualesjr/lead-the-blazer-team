@@ -6,7 +6,7 @@ import { Search, Home } from 'lucide-react';
 
 const Hero = () => {
   return (
-    <section className="relative h-[80vh] min-h-[600px] flex items-center bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1973&q=80')" }}>
+    <section className="relative h-[80vh] min-h-[600px] flex items-center bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80')" }}>
       <div className="absolute inset-0 bg-navy/50"></div>
       
       <div className="container mx-auto px-4 md:px-8 relative z-10">
