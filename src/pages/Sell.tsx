@@ -24,7 +24,7 @@ const Sell = () => {
     },
     {
       title: 'Managing Contingent Offers',
-      description: 'We help you navigate offers that depend on the buyer selling their current home, ensuring you don't miss better opportunities.',
+      description: 'We help you navigate offers that depend on the buyer selling their current home, ensuring you don\'t miss better opportunities.',
     },
     {
       title: 'Optimal Timing',

@@ -6,12 +6,12 @@ const SellProcess = () => {
     {
       number: '01',
       title: 'Home Value Report',
-      description: 'We'll look at your property and provide a FREE Home Value Report based on comparable homes in your area.',
+      description: 'We\'ll look at your property and provide a FREE Home Value Report based on comparable homes in your area.',
     },
     {
       number: '02',
       title: 'Target Sale Price',
-      description: 'We'll recommend a target sale price based on market data, your timeline, and your specific needs.',
+      description: 'We\'ll recommend a target sale price based on market data, your timeline, and your specific needs.',
     },
     {
       number: '03',
