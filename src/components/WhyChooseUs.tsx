@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Button } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
 import { CheckCircle } from 'lucide-react';
 
 const WhyChooseUs = () => {
@@ -36,7 +36,7 @@ const WhyChooseUs = () => {
             </ul>
             
             <Link to="/about">
-              <Button className="btn-primary inline-flex">
+              <Button className="bg-gold text-navy hover:bg-gold/90 inline-flex">
                 Learn More About Us
               </Button>
             </Link>
